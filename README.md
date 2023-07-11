@@ -31,7 +31,7 @@ Welcome to the OpenSearch Project community repository.
 * [Project Website](https://opensearch.org/)
 * [Downloads](https://opensearch.org/downloads.html)
 * [Documentation](https://opensearch.org/docs/)
-* [Project Principles](https://opensearch.org/#principles)
+* [Project Principles](https://opensearch.org/#principles](https://opensearch.org/about.html#principles-for-development)
 * [Contributing to OpenSearch](https://github.com/opensearch-project/OpenSearch/blob/main/CONTRIBUTING.md)
 * [Maintainer Responsibilities](https://github.com/opensearch-project/OpenSearch/blob/main/MAINTAINERS.md)
 * [Release Management](https://github.com/opensearch-project/OpenSearch/blob/main/RELEASING.md)
