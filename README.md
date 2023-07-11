@@ -20,7 +20,7 @@ Welcome to the OpenSearch Project community repository.
 * Find a [Meetup](https://www.meetup.com/pro/opensearchproject/) near you
 * Join a [Community Meeting or Development Triage meeting](https://www.meetup.com/opensearch/)
 * Present at a Community Meeting by commenting on an [upcoming agenda](https://forum.opensearch.org/tag/community-meeting)
-* Browest upcoming [Events](https://opensearch.org/events) and add your own
+* Browse upcoming [Events](https://opensearch.org/events) and add your own
 * Read the [Blog](https://opensearch.org/blog) or contribute your own post [Github Issue](https://github.com/opensearch-project/project-website/issues/new?assignees=&labels=new+blog%2C+untriaged&projects=&template=blog_post.md&title=)
 * Become a partner or community project
 * See who is on the [Forum Leaderboard](https://forum.opensearch.org/leaderboard)
