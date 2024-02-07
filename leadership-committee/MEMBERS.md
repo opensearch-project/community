@@ -18,8 +18,13 @@ The current membership of the committee is currently (listed alphabetically by f
 | Grant Ingersoll  | Develomentor / Lucene |
 | Jonah Kowall	   | Aiven / Cloud Native Computing Foundation |
 | Kris Freedain    | Amazon       |
-| Mark Cohen	   | Amazon       |
 | Mehul A. Shah	   | Aryn.ai      |
 | Nicholas Knize   | Amazon / Lucene
 | Nithya Ruff	   | Amazon / Linux Foundation |
 | Samuel Herman	   | Oracle       | 
+
+## Emeritus
+
+| Maintainer | Organization |
+|------------|--------------|
+| Mark Cohen | Amazon       |
