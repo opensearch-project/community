@@ -8,7 +8,7 @@ The current membership of the committee is currently (listed alphabetically by f
 
 ## Committee Members
 
-| Maintainer       | Organization |
+| Member       | Organization |
 | ---------------- | -----------  |
 | Amitai Stern     | Logz.io      |
 | Anandhi Bumstead | Amazon       |
@@ -25,6 +25,6 @@ The current membership of the committee is currently (listed alphabetically by f
 
 ## Emeritus
 
-| Maintainer | Organization |
+| Member | Organization |
 |------------|--------------|
 | Mark Cohen | Amazon       |
