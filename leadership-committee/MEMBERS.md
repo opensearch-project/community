@@ -15,7 +15,7 @@ The current membership of the committee is currently (listed alphabetically by f
 | Andriy Redko	   | Aiven        |
 | Charlotte Henkle | Amazon       |
 | Eli Fisher	   | Amazon       |
-| Grant Ingersoll  | Developmentor / Lucene |
+| Grant Ingersoll  | Develomentor / Lucene |
 | Jonah Kowall	   | Aiven / Cloud Native Computing Foundation |
 | Kris Freedain    | Amazon       |
 | Mark Cohen	   | Amazon       |
