@@ -1,0 +1,16 @@
+{
+    "name": "Will Yang",
+    "github_username": "CMDWillYang",
+    "opensearch_slack_username": "Will Yang",
+    "company": "Purdue University",
+    "job_title": "Senior",
+    "personas": [
+        {
+            "type": "osci",
+            "details": {
+                "years": [2023]
+            }
+        }
+    ],
+    "description": "A senior at Purdue University studying CS!"
+}
