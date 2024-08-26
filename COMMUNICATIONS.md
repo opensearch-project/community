@@ -39,10 +39,40 @@ After you join OpenSearch workspace you will be automatically added to the follo
 There are dedicated channels for the following (note that participants might be directed to more specific channels based on the nature of the discussion):
 
   * **#admin-requests** - slack related feature requests and questions for the administration team.
-  * **#dev** - primary channel for development questions. This is a good place to start for participants interested in OpenSearch development but are not sure which channels to join.
-  * **#core** -  primary channel for core OpenSearch. General questions and discussions about the core can be asked here.
+  * **#alerting** - 	Discussions and questions regarding alerting capabilities and use cases.
+  * **#assistant-feedback** - Feedback channel for the generative AI powered [OpenSearch Assistant toolkit](https://ai.playground.opensearch.org/).
+  * **#clients** - Clients such as opensearch-java, opensearch-py, opensearch-hadoop.
+  * **#cluster-manager** - Discuss/brainstorm topics around cluster formation, cluster state publication & resiliency, decision making during index creation etc.
+  * **#core** - Primary channel for core OpenSearch. General questions and discussions about the core can be asked here.
   * **#dashboards** - primary channel for Dashboards. General questions and discussions about dashboards can be asked here.
+  * **#dashboards-ux** - UX discussion for Dashboards.
+  * **#dev** - primary channel for development questions. This is a good place to start for participants interested in OpenSearch development but are not sure which channels to join.
+  * **#devops** - Developer operations, not to be confused with development. If you have a question about dev tooling, CI/CD, this is the place for you.	
+  * **#devrel** - Developer relations discussion.
+  * **#documentation** - Discussions about documentation issues, requests, information gathering.
+  * **#events** - Discussion relating to OpenSearch and event.
+  * **#general** - General discussions and questions about the OpenSearch project. Not sure where to start? This is a good place and you may be directed to a more specific channel.
+  * **#geospatial** - All things Geo in OpenSearch and Maps in Dashboards.
+  * **#indexing** - 	Discussions around parsers, compression, merge strategies, flush/refresh settings, etc.
   * **#infra** - primary channel for infra. General discussions, questions, or infra requests can be posted here.
+  * **#ingest** - Conversations, questions, and discussion related to ingesting data into OpenSearch.
+  * **#k8s-operator** - Discussions about the Kubernetes Operator.
+  * **#maintainers** - A channel for maintainers to discuss on efficiently maintaining repos. _Discussions that lead to results in unilateral change (intentional or inadvertently) being codified, take them to the Maintainers forum category for long-term traceability._
+  * **#migrations** - Questions and discussions about migrating to OpenSearch or upgrading to new versions.
+  * **#ml** - Artificial Intelligence (AI) and/or Machine Learning (ML) and OpenSearch discussion.
+  * **#observability** - Observability (RUM, Synthetics, Trace Analytics) special interest group.
+  * **#opensearchcon** - OpenSearchCon related discussions and questions.
+  * **#performance** - Performance related discussions (e.g., benchmarks, regressions, opensearch-benchmarks repo).
+  * **#plugins** - Discussion of OpenSearch plugins and the future of extensibility.
+  * **#random** - A place for non-work-related flimflam, faffing, hodge-podge or jibber-jabber you'd prefer to keep out of more focused work-related channels.
+  * **#releases** - Discussions related to planning, scheduling, go/no-go, and release related topics.
+  * **#search** - Search applications, relevance tuning, semantic search, Lucene, search features."	
+  * **#security** - 	Discussions around core security and security plugin. DO NOT POST VULNERABILITIES. _See [SECURITY.md](https://github.com/opensearch-project/.github/blob/main/SECURITY.md)._
+  * **#security-analytics** - Share use-cases, issues you are facing, ideas, rules you may need help configuring or tweaking and most importantly discussing the feedback that will help security-analytics be better at solving for security workloads.
+  * **#sql-ppl** - All the Query Languages OpenSearch supports, including query planning and federation.
+  * **#user-groups** - [User Groups](https://github.com/krisfreedain/opensearch-project-community/tree/main/user-groups) program discussion. Learn about new meetings in your area, propose to speak at an upcoming meeting, find out more details on how to take part in or co-organize a User Group in your area.
+  * **#vector-search** - Discussions and questions regarding vector-search capabilities and use cases.
+
 
 ### Tips
 
