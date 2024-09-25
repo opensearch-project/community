@@ -1,0 +1,2 @@
+This document contained a list of Leadership Committee (LC) members. The LC was dissolved and replaced by the Technical Steering Committee after the establishment of the [OpenSearch Software Foundation](https://www.linuxfoundation.org/press/linux-foundation-announces-opensearch-software-foundation-to-foster-open-collaboration-in-search-and-analytics) on September 16, 2024. See [this link](https://github.com/opensearch-project/community/blob/2f9848c1f581e2545185628a6033bf1e3ade5b44/leadership-committee/MEMBERS.md) for the last version that contained the list of LC members.
+
