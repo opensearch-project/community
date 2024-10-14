@@ -1,3 +1,0 @@
-# Governing Board
-
-(Placeholder)

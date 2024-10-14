@@ -15,7 +15,7 @@ Welcome to the OpenSearch Project community repository.
 
 The OpenSearch Project is supported by [The OpenSearch Software Foundation](https://foundation.opensearch.org/), a project of [The Linux Foundation](https://www.linuxfoundation.org/). You can read the launch announcement [here](https://www.linuxfoundation.org/press/linux-foundation-announces-opensearch-software-foundation-to-foster-open-collaboration-in-search-and-analytics) and learn more about joining the foundation [here](https://foundation.opensearch.org/). 
 
-The project has a [Governing Board](governing-board/README.md) and a [Technical Steering Committee](technical-steering-committee/README.md).
+The project has a Governing Board and a [Technical Steering Committee](https://github.com/opensearch-project/technical-steering).
 
 ## Community Resources
 
