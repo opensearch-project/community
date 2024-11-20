@@ -7,4 +7,7 @@ This document contains a list of maintainers in this repo. See [opensearch-proje
 | Maintainer       | GitHub ID                                           | Affiliation |
 | ---------------- | --------------------------------------------------- | ----------- |
 | Kris Freedain    | [krisfreedain](https://github.com/krisfreedain)     | Amazon      |
-| Nick Knize       | [nknize](https://github.com/nknize)                 | Amazon      |
+| Nick Knize       | [nknize](https://github.com/nknize)                 | Lucenia     |
+| Daryll Swager    | [dimwetoth](https://github.com/dimwetoth)           | Amazon      |
+| James McIntyre   | [jhmcintyre](https://github.com/jhmcintyre)         | Amazon      |
+| Nate Boot        | [nateynateynate](https://github.com/nateynateynate) | Amazon      |
