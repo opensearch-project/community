@@ -8,7 +8,7 @@
 
 ## Overview
 
-The purpose of this document is to provide information regarding the communication channels for the OpenSearch Project. All communication is subject to the [OpenSearch Code of Conduct](CODE_OF_CONDUCT.md). Please see [CONTRIBUTING](CONTRIBUTING.md) if you're interested in contributing to the project.
+The purpose of this document is to provide information regarding the communication channels for the OpenSearch Project. All communication is subject to the [OpenSearch Software Foundation Code of Conduct](https://github.com/opensearch-project/.github/blob/main/CODE_OF_CONDUCT.md). Please see [CONTRIBUTING](CONTRIBUTING.md) if you're interested in contributing to the project.
 
 ## Slack
 
@@ -25,7 +25,7 @@ _Join Workspace_
 _Update Profile_
 
   * You may add your interests or keywords in the “What I do” section of your profile along with your Title and Company/Organization. This helps participants network and connect with each other by common interests.
-  * Feel free to update your profile photo to something unique to you. All profile photos are subject to the [OpenSearch Code of Conduct](CODE_OF_CONDUCT.md) policies.
+  * Feel free to update your profile photo to something unique to you. All profile photos are subject to the [OpenSearch Software Foundation Code of Conduct](https://github.com/opensearch-project/.github/blob/main/CODE_OF_CONDUCT.md) policies.
   * Optionally share your pronouns by adding them to the end of your Full Name in your profile. This way other participants will be able to see them and be respectful to your communication preferences. Please also be respectful of other participants’ pronouns.
 
 ### Workspace Channels
@@ -53,9 +53,11 @@ There are dedicated channels for the following (note that participants might be 
   * **#events** - Discussion relating to OpenSearch and event.
   * **#general** - General discussions and questions about the OpenSearch project. Not sure where to start? This is a good place and you may be directed to a more specific channel.
   * **#geospatial** - All things Geo in OpenSearch and Maps in Dashboards.
+  * **#governance** - Discussions about The OpenSearch Software Foundation, project governance, and related topics.
   * **#indexing** - 	Discussions around parsers, compression, merge strategies, flush/refresh settings, etc.
   * **#infra** - primary channel for infra. General discussions, questions, or infra requests can be posted here.
   * **#ingest** - Conversations, questions, and discussion related to ingesting data into OpenSearch.
+  * **#java-security-manager-alternatives** - Discussion of [RFC - Replace Java Security Manager #1687](https://github.com/opensearch-project/OpenSearch/issues/1687) and related topics.
   * **#k8s-operator** - Discussions about the Kubernetes Operator.
   * **#maintainers** - A channel for maintainers to discuss on efficiently maintaining repos. _Discussions that lead to results in unilateral change (intentional or inadvertently) being codified, take them to the Maintainers forum category for long-term traceability._
   * **#migrations** - Questions and discussions about migrating to OpenSearch or upgrading to new versions.
@@ -63,22 +65,25 @@ There are dedicated channels for the following (note that participants might be 
   * **#observability** - Observability (RUM, Synthetics, Trace Analytics) special interest group.
   * **#opensearchcon** - OpenSearchCon related discussions and questions.
   * **#performance** - Performance related discussions (e.g., benchmarks, regressions, opensearch-benchmarks repo).
+  * **#performance-benchmarking** - Discussion channel focused on performance results and benchmark suites.
   * **#plugins** - Discussion of OpenSearch plugins and the future of extensibility.
   * **#random** - A place for non-work-related flimflam, faffing, hodge-podge or jibber-jabber you'd prefer to keep out of more focused work-related channels.
+  * **#release-engineering** - Discussion area on release engineering and transfer of ownership to the LF.
   * **#releases** - Discussions related to planning, scheduling, go/no-go, and release related topics.
   * **#search** - Search applications, relevance tuning, semantic search, Lucene, search features."	
   * **#security** - 	Discussions around core security and security plugin. DO NOT POST VULNERABILITIES. _See [SECURITY.md](https://github.com/opensearch-project/.github/blob/main/SECURITY.md)._
   * **#security-analytics** - Share use-cases, issues you are facing, ideas, rules you may need help configuring or tweaking and most importantly discussing the feedback that will help security-analytics be better at solving for security workloads.
   * **#sql-ppl** - All the Query Languages OpenSearch supports, including query planning and federation.
-  * **#user-groups** - [User Groups](https://github.com/krisfreedain/opensearch-project-community/tree/main/user-groups) program discussion. Learn about new meetings in your area, propose to speak at an upcoming meeting, find out more details on how to take part in or co-organize a User Group in your area.
+  * **#user-groups** - [User Groups](https://github.com/opensearch-project/community/tree/main/user-groups) program discussion. Learn about new meetings in your area, propose to speak at an upcoming meeting, find out more details on how to take part in or co-organize a [User Group](https://opensearch.org/usergroups/) in your area.
   * **#vector-search** - Discussions and questions regarding vector-search capabilities and use cases.
 
 
 ### Tips
 
   * Try to keep communications in the open - not only does this facilitate better sharing of information but back channeled discussions are not retained for search among other community members.
-  * Slack conversations are not searchable outside the workspace. For this reason we encourage using the [OpenSearch Discussion Forum](https://forum.opensearch.org) for technical support discussions or, at least, open a summary discussion on the forum so useful findings can be shared with the rest of the community.
+  * Slack conversations are not searchable outside the workspace. For this reason we encourage using the [OpenSearch Forum](https://forum.opensearch.org) for technical support discussions or, at least, open a summary discussion on the forum so useful findings can be shared with the rest of the community.
   * Keep discussions organized - use threads to respond to comments inline instead of posting to the entire channel.
   * Expect asynchronous response time - do not assume immediate response time, or possibly any response at all. This is a community driven communication tool with participants in different time zones. The workspace should not be treated as a formal support or training tool.
   * Protecting IP and legally protected information is your responsibility, this is a public forum. Don’t presume anything said here will remain private.
-  * **DO NOT** post CVEs or Security issues publicly. See [SECURITY](SECURITY.md) for guidelines on handling security issues.
+  * Please refrain from posting the same message in multiple channels. This causes noise and will be subject to deletion.
+  * **DO NOT** post CVEs or Security issues publicly. See [SECURITY](https://github.com/opensearch-project/.github/blob/main/SECURITY.md) for guidelines on handling security issues.
