@@ -7,7 +7,7 @@
 
 ## Introduction
 
-By participating as a panelist, you agree to the OpenSearch [Code of Conduct](https://opensearch.org/codeofconduct.html).
+By participating as a panelist, you agree to the OpenSearch [Code of Conduct](https://opensearch.org/codeofconduct.html) and The Linux Foundation [volunteer guidelines](https://events.linuxfoundation.org/program-committee-event-volunteer-guidelines/#overview).
 
 
 ## Recruiting Panelists
@@ -44,10 +44,13 @@ Judging is done in a ‘double-blind’ state; panelists do not know presenters 
 * Presents a novel or unique perspective
 * Is not a sales pitch
 
+OpenSearchCon will utilize a [Stars rating evaluation plan](https://sessionize.com/playbook/stars-rating-evaluation-mode-guide), and panelists will score presentations based on each of the criteria listed above, as opposed to a singular overall rating. 
+In addition, it is mandatory to provide feedback in the form of a comment for each presentation. Ensure your feedback is constructive, particularly for rejected proposals, as we receive requests for feedback, and it is always helpful to pass along helpful comments for future proposals.
+
 Panelists can anticipate spending up to eight hours reviewing the assigned submissions, depending on how many are assigned. If the assignment is too large, or if a panelist foresees being unable to complete their assignment, they are obligated to notify the panel administration team as early as possible to allow their talks to be reassigned. 
 
 Panelists are expected to keep their involvement, the submissions they review, and their comments confidential. This helps ensure the integrity of the conference and earn community trust. Panelists are also asked to evaluate submissions with the best interests of the OpenSearch Project and the conference attendees as their priority, rather than from the perspective of their employer or their own business interests. Panelists should judge as if they are an attendee and are looking to build a compelling and diverse set of sessions they would want to attend. Remember that the audience will contain a wide array of interests and levels of expertise. 
 
 Once the scoring is completed, the panel administrator(s) will collect the scores, topics, and panelists’ inputs and compile the final roster of speakers and presentations. As part of this process, the administrator(s) may adjust the final selections with the goals of ensuring diversity of speakers and content and supporting the best possible conference. 
 
-
+If you require assistance reviewing presentations or have questions about the review process, please contact the Content Team at [cfp@linuxfoundation.org](mailto:cfp@linuxfoundation.org).
