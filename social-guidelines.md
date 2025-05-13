@@ -3,7 +3,7 @@
 
 This document covers the social media guidelines for administering and posting on the OpenSearch Project social media accounts. 
 
-The OpenSearch Project & the OpenSearch Software Foundation manage multiple social media accounts. These guidelines are intended to apply to all OpenSearch channels, regardless of who may be acting as manager at a given time.
+The OpenSearch Project & the OpenSearch Software Foundation manage multiple social media accounts. These guidelines are intended to apply to all OpenSearch channels, regardless of who may be acting as manager at a given time to ensure brand consistency, content accuracy, and alignment with project goals.
 
 
 ## OpenSearch Project social handles
@@ -20,6 +20,7 @@ The objectives of the project’s social media presences are:
 * Promote OpenSearchCon conferences or other first-party events
 * Share information on how-tos, demos, or other product information that is of interest to the community
 * Promote membership in the OpenSearch Software Foundation
+* Highlight contributions, discussions, and real-world use cases
 
 
 ### Strategy and Guidelines
@@ -28,10 +29,22 @@ The objectives of the project’s social media presences are:
 * Share content that benefits the ecosystem as a whole
 * Share vendor-neutral, community-sourced posts that are informational, engaging, and ecosystem-focused
 * Engage with the community through re-shares/boosts/retweets and sharing of community content
-* Shared vendor-neutral content, sourced from contributors, maintainers, ambassadors, news outlets, etc that spreads awareness to the community
-* Shared content including blog posts, news coverage, thought leadership bylines, technology demos, GitHub work, User Group meetups, etc
+* Share content including blog posts, news coverage, thought leadership bylines, technology demos, GitHub work, User Group meetups, etc
 * Social posts from member company handles and/or vendor channels can be shared
 * Activities that are hosted by and open to the public can be promoted, to benefit the ecosystem as a whole
+* Avoid publishing two event-related posts in a row; intersperse with educational or community-focused content to maintain variety and engagement
+
+#### Reposting Policy
+
+We actively amplify the work of our contributors and community members through reposts and shares across platforms. However, to ensure equitable visibility and maintain a balanced content stream:
+
+* Reposts should not feature the same contributor in consecutive posts
+* A single contributor’s content should not dominate the feed over time
+* Avoid back-to-back event announcements; intersperse with educational, technical, or community engagement content
+* Preference is given to content that:
+   * Supports or reflects an official OpenSearch release, event, or working group initiative
+   * Demonstrates ecosystem growth or problem-solving
+   * Is aligned with OpenSearch’s mission and vendor-neutral principles
 
 
 ### Images & Videos
