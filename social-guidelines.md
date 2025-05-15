@@ -46,6 +46,8 @@ We actively amplify the work of our contributors and community members through r
    * Demonstrates ecosystem growth or problem-solving
    * Is aligned with OpenSearch’s mission and vendor-neutral principles
 
+**Note**: While OpenSearch is a Linux Foundation project, Linux Foundation social channels do not automatically reshare OpenSearch or OpenSearch Community content. Linux Foundation accounts prioritize resharing content that supports foundation-level initiatives, major announcements, or coordinated campaigns, not personal blogs or individual side projects.
+
 
 ### Images & Videos
 
