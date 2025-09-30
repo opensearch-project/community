@@ -19,14 +19,15 @@ The project has a Governing Board and a [Technical Steering Committee](https://g
 
 ## Community Resources
 
+* Join the [community](https://opensearch.org/community/)
 * Need help troubleshooting? Ask in the [Forum](https://forum.opensearch.org/)
 * Have a code contribution and need to talk to a developer? Join [Slack](https://opensearch.org/slack.html)
-* Find a [Meetup](https://www.meetup.com/pro/opensearchproject/) near you
+* Find a [User Group](https://www.meetup.com/pro/opensearchproject/) near you
+* Learn more about the [OpenSearch Ambassadors](https://opensearch.org/ambassadors/) program
 * Join a [Community Meeting or Development Triage meeting](https://www.meetup.com/opensearch/)
-* Present at a Community Meeting by commenting on an [upcoming agenda](https://forum.opensearch.org/tag/community-meeting)
-* Browse upcoming [Events](https://opensearch.org/events) and add your own
+* Browse upcoming [Events](https://opensearch.org/events)
 * Read the [Blog](https://opensearch.org/blog) or contribute your own post [Github Issue](https://github.com/opensearch-project/project-website/issues/new?assignees=&labels=new+blog%2C+untriaged&projects=&template=blog_post.md&title=)
-* Become a partner or community project
+* Become a [solution provider]{https://opensearch.org/solutions-providers/} or [community project](https://opensearch.org/community-projects/)
 * See who is on the [Forum Leaderboard](https://forum.opensearch.org/leaderboard)
 * Suggest content for the newsletter [GitHub issue](https://github.com/opensearch-project/project-website/issues/new?assignees=&labels=newsletter%2C+untriaged&projects=&template=newsletter.md&title=)
 
@@ -45,11 +46,11 @@ The project has a Governing Board and a [Technical Steering Committee](https://g
 
 ## Code of Conduct
 
-This project has adopted the [Amazon Open Source Code of Conduct](CODE_OF_CONDUCT.md). For more information see the [Code of Conduct FAQ](https://aws.github.io/code-of-conduct-faq), or contact [opensource-codeofconduct@amazon.com](mailto:opensource-codeofconduct@amazon.com) with any additional questions or comments.
+This project has adopted the [OpenSearch Software Foundation Code of Conduct](https://github.com/opensearch-project/.github/blob/main/CODE_OF_CONDUCT.md). Copyright OpenSearch Contributors. See [NOTICE](https://github.com/opensearch-project/.github/blob/main/NOTICE.txt) for details. OpenSearch is a registered trademark of The Linux Foundation.
 
 ## Security
 
-See [CONTRIBUTING](CONTRIBUTING.md#security-issue-notifications) for more information.
+See [SECURITY.md](https://github.com/opensearch-project/.github/blob/main/SECURITY.md) for more information.
 
 ## License
 
