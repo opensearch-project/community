@@ -27,7 +27,7 @@ The project has a Governing Board and a [Technical Steering Committee](https://g
 * Join a [Community Meeting or Development Triage meeting](https://www.meetup.com/opensearch/)
 * Browse upcoming [Events](https://opensearch.org/events)
 * Read the [Blog](https://opensearch.org/blog) or contribute your own post [Github Issue](https://github.com/opensearch-project/project-website/issues/new?assignees=&labels=new+blog%2C+untriaged&projects=&template=blog_post.md&title=)
-* Become a [solution provider]{https://opensearch.org/solutions-providers/} or [community project](https://opensearch.org/community-projects/)
+* Become a [solution provider](https://opensearch.org/solutions-providers/) or [community project](https://opensearch.org/community-projects/)
 * See who is on the [Forum Leaderboard](https://forum.opensearch.org/leaderboard)
 * Suggest content for the newsletter [GitHub issue](https://github.com/opensearch-project/project-website/issues/new?assignees=&labels=newsletter%2C+untriaged&projects=&template=newsletter.md&title=)
 
