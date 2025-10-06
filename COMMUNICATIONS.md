@@ -57,8 +57,9 @@ There are dedicated channels for the following (note that participants might be 
   * **#indexing** - 	Discussions around parsers, compression, merge strategies, flush/refresh settings, etc.
   * **#infra** - primary channel for infra. General discussions, questions, or infra requests can be posted here.
   * **#ingest** - Conversations, questions, and discussion related to ingesting data into OpenSearch.
-  * **#java-security-manager-alternatives** - Discussion of [RFC - Replace Java Security Manager #1687](https://github.com/opensearch-project/OpenSearch/issues/1687) and related topics.
+  * **#jobs** - The place to post job postings for all jobs related to the creation, maintenance, or use of OpenSearch. When posting please ensure you include a job location as we are a distributed community.
   * **#k8s-operator** - Discussions about the Kubernetes Operator.
+  * **#lucene** - Discussions related to the Apache Lucene project.
   * **#maintainers** - A channel for maintainers to discuss on efficiently maintaining repos. _Discussions that lead to results in unilateral change (intentional or inadvertently) being codified, take them to the Maintainers forum category for long-term traceability._
   * **#migrations** - Questions and discussions about migrating to OpenSearch or upgrading to new versions.
   * **#ml** - Artificial Intelligence (AI) and/or Machine Learning (ML) and OpenSearch discussion.
@@ -67,12 +68,16 @@ There are dedicated channels for the following (note that participants might be 
   * **#performance** - Performance related discussions (e.g., benchmarks, regressions, opensearch-benchmarks repo).
   * **#performance-benchmarking** - Discussion channel focused on performance results and benchmark suites.
   * **#plugins** - Discussion of OpenSearch plugins and the future of extensibility.
+  * **#prometheus-exporter** - Discussions for the Prometheus exporter plugin for OpenSearch & OpenSearch Mixin [https://github.com/opensearch-project/opensearch-prometheus-exporter](https://github.com/opensearch-project/opensearch-prometheus-exporter)
   * **#random** - A place for non-work-related flimflam, faffing, hodge-podge or jibber-jabber you'd prefer to keep out of more focused work-related channels.
+  * **#release-bot-oscar** - This channel features our latest release bot OSCAR in beta stage. You can @oscar-beta in the channel for interactions. Please check the canvas on top of the channel for usages.
   * **#release-engineering** - Discussion area on release engineering and transfer of ownership to the LF.
   * **#releases** - Discussions related to planning, scheduling, go/no-go, and release related topics.
-  * **#search** - Search applications, relevance tuning, semantic search, Lucene, search features."	
+  * **#search** - Search applications, relevance tuning, semantic search, Lucene, search features."
+  * **#search-relevance-workbench** - Discussion area for work around the search relevance workbench.
   * **#security** - 	Discussions around core security and security plugin. DO NOT POST VULNERABILITIES. _See [SECURITY.md](https://github.com/opensearch-project/.github/blob/main/SECURITY.md)._
   * **#security-analytics** - Share use-cases, issues you are facing, ideas, rules you may need help configuring or tweaking and most importantly discussing the feedback that will help security-analytics be better at solving for security workloads.
+  * **#solutions-providers** - A place for solutions providers; work with, find, engage, trade ideas.
   * **#sql-ppl** - All the Query Languages OpenSearch supports, including query planning and federation.
   * **#user-groups** - [User Groups](https://github.com/opensearch-project/community/tree/main/user-groups) program discussion. Learn about new meetings in your area, propose to speak at an upcoming meeting, find out more details on how to take part in or co-organize a [User Group](https://opensearch.org/usergroups/) in your area.
   * **#vector-search** - Discussions and questions regarding vector-search capabilities and use cases.
