@@ -1,0 +1,67 @@
+name: New User Group Request
+description: Request to start a new OpenSearch User Group
+title: "New User Group Request: [City Name]"
+labels: ['user-group-request, untriaged']
+body:
+  - type: checkboxes
+    id: charter_reviewed
+    attributes:
+      label: Prerequisites
+      description: Before submitting a new user group request, please review the following
+      options:
+        - label: I have reviewed the [Charter and Guidelines](https://github.com/opensearch-project/community/blob/main/user-groups/charter-guidelines.md) document
+          required: true
+
+  - type: input
+    id: city
+    attributes:
+      label: "City for User Group"
+      description: "What city would you like to start a User Group in?"
+      placeholder: e.g., San Francisco, London, Tokyo
+    validations:
+      required: true
+
+  - type: textarea
+    id: experience_leading
+    attributes:
+      label: "Experience Leading User Groups (Optional)"
+      description: "Please describe any experience you have leading or organizing user groups, meetups, or community events"
+      placeholder: e.g., Organized local DevOps meetup for 2 years, Co-led AWS user group, etc.
+    validations:
+      required: false
+
+  - type: textarea
+    id: experience_opensearch
+    attributes:
+      label: "Experience with OpenSearch and Related Technologies"
+      description: "Please describe your experience with OpenSearch, or related search and analytics technologies"
+      placeholder: "e.g., 3 years working with OpenSearch, using OpenSearch for log analytics, etc."
+    validations:
+      required: true
+
+  - type: textarea
+    id: company_affiliation
+    attributes:
+      label: "Company Affiliation (Optional)"
+      description: "Do you work for an OpenSearch Software Foundation member company or OpenSearch solution provider?"
+      placeholder: Please let us know the name of the company. Foundation or solution provider status is NOT a requirement.
+    validations:
+      required: false
+
+  - type: textarea
+    id: contact_info
+    attributes:
+      label: "Contact Information"
+      description: "Please provide your contact information (email, GitHub handle, or other preferred contact method)"
+      placeholder: e.g., email@example.com, @githubusername
+    validations:
+      required: true
+
+  - type: textarea
+    id: additional_info
+    attributes:
+      label: "Additional Information"
+      description: "Any additional information you'd like to share about your proposed user group"
+      placeholder: e.g., Potential co-organizers, meeting frequency ideas, target audience, etc.
+    validations:
+      required: false
