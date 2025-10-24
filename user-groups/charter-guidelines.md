@@ -22,7 +22,7 @@ All OpenSearch Project User Group meetings are intended to be free to attend.
 
 ## Locations 
 
-For the most up-to-date listing of User Groups, please visit the [OpenSearch Project Meetup Network](https://www.meetup.com/pro/opensearchproject/) landing page. 
+For the most up-to-date listing of User Groups, please visit the [OpenSearch Project Meetup Network](https://www.meetup.com/pro/opensearchproject/) landing page. If you don't see your city listed and are interested in leading a new one, open a ['New User Group Request'](https://github.com/opensearch-project/community/issues/new?template=new_user_group.yaml) issue to begin the conversation.
 
 ## Communications
 
@@ -30,5 +30,5 @@ Interested in speaking at an upcoming event? Have ideas to share with others in 
 
 ## Code of Conduct
 
-All hosts and participants involved in OpenSearch Project User Groups are expected to follow the [OpenSearch Project Code of Conduct](https://github.com/opensearch-project/.github/blob/main/CODE_OF_CONDUCT.md).
+All hosts and participants involved in OpenSearch Project User Groups are expected to follow the [OpenSearch Software Foundation Code of Conduct](https://github.com/opensearch-project/.github/blob/main/CODE_OF_CONDUCT.md).
 
