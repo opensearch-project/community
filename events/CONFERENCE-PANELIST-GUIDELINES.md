@@ -18,7 +18,7 @@ Prospective panelists are contacted by a panel administrator with the goal of se
 
 During the ‘Call for Presentations’ time frame, the community is asked to submit presentation ideas across four different categories:
 
-* **Search**: Connect with other search and relevance practitioners with demos, deep dives, or new and novel techniques for building rich search applications.
+* **Search & Apache Lucene**: Connect with other search and relevance practitioners with demos, deep dives, or new and novel techniques for building rich search applications. Master Lucene, the search engine library that powers OpenSearch – from relevancy tuning and efficient matching to analyzers and scoring.
 * **Analytics, Security, and Observability**: Deploying observability tools at scale? Using OpenSearch to turn log data into insights, or to help protect your infrastructure? We want to hear from you!
 * **Community**: Engage a community of builders on a topic that means something to you. Anything that might educate and inspire a community of open source technologists is up for consideration here.
 * **Operating OpenSearch**: Have you have built out an implementation of OpenSearch? Do you use OpenSearch in a solution that helps your own business or project? Share how you operate OpenSearch
