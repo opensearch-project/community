@@ -18,7 +18,7 @@ Prospective panelists are contacted by a panel administrator with the goal of se
 
 During the ‘Call for Presentations’ time frame, the community is asked to submit presentation ideas across four different categories:
 
-* **Search**: Connect with other search and relevance practitioners with demos, deep dives, or new and novel techniques for building rich search applications.
+* **Search & Apache Lucene**: Connect with other search and relevance practitioners with demos, deep dives, or new and novel techniques for building rich search applications. Master Lucene, the search engine library that powers OpenSearch – from relevancy tuning and efficient matching to analyzers and scoring.
 * **Analytics, Security, and Observability**: Deploying observability tools at scale? Using OpenSearch to turn log data into insights, or to help protect your infrastructure? We want to hear from you!
 * **Community**: Engage a community of builders on a topic that means something to you. Anything that might educate and inspire a community of open source technologists is up for consideration here.
 * **Operating OpenSearch**: Have you have built out an implementation of OpenSearch? Do you use OpenSearch in a solution that helps your own business or project? Share how you operate OpenSearch
@@ -51,6 +51,6 @@ Panelists can anticipate spending up to eight hours reviewing the assigned submi
 
 Panelists are expected to keep their involvement, the submissions they review, and their comments confidential. This helps ensure the integrity of the conference and earn community trust. Panelists are also asked to evaluate submissions with the best interests of the OpenSearch Project and the conference attendees as their priority, rather than from the perspective of their employer or their own business interests. Panelists should judge as if they are an attendee and are looking to build a compelling and diverse set of sessions they would want to attend. Remember that the audience will contain a wide array of interests and levels of expertise. 
 
-Once the scoring is completed, the panel administrator(s) will collect the scores, topics, and panelists’ inputs and compile the final roster of speakers and presentations. As part of this process, the administrator(s) may adjust the final selections with the goals of ensuring diversity of speakers and content and supporting the best possible conference. 
+Once the scoring is completed, the panel administrator(s) will collect the scores, topics, and panelists’ inputs and compile the final roster of speakers and presentations. As part of this process, the administrator(s) may adjust the final selections with the goals of ensuring diversity of speakers and content and supporting the best possible conference.
 
 If you require assistance reviewing presentations or have questions about the review process, please contact the Content Team at [cfp@linuxfoundation.org](mailto:cfp@linuxfoundation.org).
