@@ -153,6 +153,16 @@ The [OpenSearch User Group program](https://opensearch.org/user-groups/) is supp
 | Kris Freedain | Amazon | [krisfreedain](https://github.com/krisfreedain) | [LI](https://www.linkedin.com/in/krisfreedain) |
 | Vanshika Jain | community | | [LI](https://www.linkedin.com/in/vanshikajain622/) |
 
+## [OpenSearch Project Kerala](https://www.meetup.com/opensearch-project-kerala/)
+
+| Organizer Name | Company | GitHub ID | LinkedIn |
+|---|---|---|---|
+| Abdul Muneer Kolarkunnu | NetApp Instaclustr | [akolarkunnu](https://github.com/akolarkunnu) | [LI](https://www.linkedin.com/in/muneer-kolarkunnu) |
+| Ebin Babu | Aivar Innovations | [ebinbabu](https://github.com/ebinbabu) | [LI](https://www.linkedin.com/in/ebin-babu) |
+| Gino Varghese | IBM | [varghesg](https://github.com/varghesg) | [LI](https://www.linkedin.com/in/gino-varghese/) |
+| Kris Freedain | Amazon | [krisfreedain](https://github.com/krisfreedain) | [LI](https://www.linkedin.com/in/krisfreedain) |
+| Rima Sidique | Aivar Innovations | [rimasid](https://github.com/rimasid) | [LI](https://www.linkedin.com/in/rima-sidique) |
+
 ## [Lisbon Search and AI User Group](https://www.meetup.com/search-and-ai-lisbon/)
 
 | Organizer Name | Company | GitHub ID | LinkedIn |
