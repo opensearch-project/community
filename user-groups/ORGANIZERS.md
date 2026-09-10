@@ -364,6 +364,12 @@ The [OpenSearch User Group program](https://opensearch.org/user-groups/) is supp
 | Kris Freedain | Amazon | [krisfreedain](https://github.com/krisfreedain) | [LI](https://www.linkedin.com/in/krisfreedain) |
 | Rutger Thomschutz | Qmulos | [rutgerht](https://github.com/rutgerht) | [LI](https://www.linkedin.com/in/rutgert/) |
 
+## [OpenSearch Project Kolhapur](https://www.meetup.com/opensearch-project-kolhapur/)
+
+| Organizer | GitHub | LinkedIn |
+| --- | --- | --- |
+| Omkar Bhete | [omkarbhete](https://github.com/omkarbhete) | [Omkar Bhete](https://www.linkedin.com/in/omkarbhete/) |
+| Kris Freedain | [krisfreedain](https://github.com/krisfreedain) | [Kris Freedain](https://www.linkedin.com/in/krisfreedain/) |
 
 ## New Groups 
 
