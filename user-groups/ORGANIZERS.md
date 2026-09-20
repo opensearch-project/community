@@ -255,6 +255,13 @@ The [OpenSearch User Group program](https://opensearch.org/user-groups/) is supp
 | Karsten Schnitter | SAP | [KarstenSchnitter](https://github.com/KarstenSchnitter) | [LI](https://www.linkedin.com/in/karsten-schnitter-7b85b174/) |
 | Kris Freedain | Amazon | [krisfreedain](https://github.com/krisfreedain) | [LI](https://www.linkedin.com/in/krisfreedain) |
 
+## [OpenSearch Project Prague](https://www.meetup.com/opensearch-project-prague/)
+
+| Organizer Name | Company | GitHub ID | LinkedIn |
+|---|---|---|---|
+| Honza Král | Sidecar | [honzakral](https://github.com/honzakral) | [LI](https://www.linkedin.com/in/honzakral/) |
+| Bojan Jovanovic | Sidecar | [bojanpy](https://github.com/bojanpy) | [LI](https://www.linkedin.com/in/bojovanovic/) |
+
 ## [OpenSearch Project Pune](https://www.meetup.com/opensearch-project-pune/)
 
 | Organizer Name | Company | GitHub ID | LinkedIn |
