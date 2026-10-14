@@ -1,0 +1,75 @@
+{
+    "type": "object",
+    "properties": {
+        "name": { "type": "string" },
+        "github_username": { "type": "string" },
+        "opensearch_slack_username": { "type": "string" },
+        "company": { "type": "string" },
+        "job_title": { "type": "string" },
+        "location": { "type": "string" },
+        "profile_image": {
+            "type": "string",
+            "pattern": "^\\.\\./assets/profile-images/.*\\.jpg$"
+        },
+        "social_media_profiles": {
+            "type": "object",
+            "properties": {
+                "linkedin_id": { "type": "string" },
+                "twitter_id": { "type": "string" }
+            },
+            "additionalProperties": false
+        },
+        "personas": {
+            "type": "array",
+            "items": {
+                "type": "object",
+                "properties": {
+                    "type": {
+                        "type": "string",
+                        "enum": [
+                            "osci",
+                            "conference_speaker",
+                            "author"
+                        ]
+                    },
+                    "details": {
+                        "type": "object",
+                        "properties": {
+                            "years": {
+                                "type": "array",
+                                "items": {
+                                    "type": "integer",
+                                    "enum": [2023, 2024]
+                                },
+                                "uniqueItems": true
+                            },
+                            "conference_ids": {
+                                "type": "array",
+                                "items": { "type": "string" },
+                                "uniqueItems": true
+                            }
+                        },
+                        "required": [],
+                        "additionalProperties": false
+                    }
+                },
+                "required": ["type"],
+                "additionalProperties": false
+            },
+            "uniqueItems": true
+        },
+        "description": {
+            "type": "string",
+            "maxLength": 255
+        }
+    },
+    "required": [
+        "name",
+        "github_username",
+        "opensearch_slack_username",
+        "company",
+        "job_title",
+        "description"
+    ],
+    "additionalProperties": false
+}
