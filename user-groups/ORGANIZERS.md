@@ -354,7 +354,7 @@ The [OpenSearch User Group program](https://opensearch.org/user-groups/) is supp
 |---|---|---|---|
 | David Bennett | Eliatra |  | [LI](https://www.linkedin.com/in/davidwbennett/) |
 | Kris Freedain | Amazon | [krisfreedain](https://github.com/krisfreedain) | [LI](https://www.linkedin.com/in/krisfreedain) |
-| Lior Perry | | | |
+| Lior Perry | Independent | [YANG-DB](https://github.com/YANG-DB) | [LI](https://www.linkedin.com/in/lior-perry-yang-db/) |
 
 ## [OpenSearch Project Vienna](https://www.meetup.com/opensearch-project-vienna/)
 
