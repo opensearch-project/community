@@ -378,6 +378,15 @@ The [OpenSearch User Group program](https://opensearch.org/user-groups/) is supp
 | Omkar Bhete | [omkarbhete](https://github.com/omkarbhete) | [Omkar Bhete](https://www.linkedin.com/in/omkarbhete/) |
 | Kris Freedain | [krisfreedain](https://github.com/krisfreedain) | [Kris Freedain](https://www.linkedin.com/in/krisfreedain/) |
 
+## [OpenSearch Project Sri Lanka](https://www.meetup.com/opensearch-project-sri-lanka/)
+
+| Organizer | GitHub | LinkedIn |
+| --- | --- | --- |
+| Kavindu Sahan | [BL4CKF0Xk](https://github.com/BL4CKF0Xk) | [kavindu-sahan](https://www.linkedin.com/in/kavindu-sahan/) |
+| Kris Freedain | [krisfreedain](https://github.com/krisfreedain) | [Kris Freedain](https://www.linkedin.com/in/krisfreedain/) |
+| Indrajith Ekanayake | [indrajithek](https://github.com/indrajithek) | [indrajithek](https://www.linkedin.com/in/indrajithek/) |
+
+
 ## New Groups 
 
 If you don't see your city listed and are interested in leading a new one, open a ['New User Group Request'](https://github.com/opensearch-project/community/issues/new?template=new_user_group.yaml) issue to begin the conversation.
