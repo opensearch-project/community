@@ -46,18 +46,23 @@ There are dedicated channels for the following (note that participants might be 
   * **#core** - Primary channel for core OpenSearch. General questions and discussions about the core can be asked here.
   * **#dashboards** - primary channel for Dashboards. General questions and discussions about dashboards can be asked here.
   * **#dashboards-ux** - UX discussion for Dashboards.
+  * **#data-prepper** - Discussion channel for Data Prepper contributors and the SIG: PR questions, RFC discussion, release coordination, and triage conversations
   * **#dev** - primary channel for development questions. This is a good place to start for participants interested in OpenSearch development but are not sure which channels to join.
   * **#devops** - Developer operations, not to be confused with development. If you have a question about dev tooling, CI/CD, this is the place for you.	
   * **#devrel** - Developer relations discussion.
   * **#documentation** - Discussions about documentation issues, requests, information gathering.
   * **#events** - Discussion relating to OpenSearch and event.
+  * **#fips-implementation** - Channel dedicated to implementation of FIPS for the OpenSearch project.
   * **#general** - General discussions and questions about the OpenSearch project. Not sure where to start? This is a good place and you may be directed to a more specific channel.
   * **#geospatial** - All things Geo in OpenSearch and Maps in Dashboards.
+  * **#go-client** - opensearch-go Client Development
   * **#governance** - Discussions about The OpenSearch Software Foundation, project governance, and related topics.
+  * **#hackathon** - Discussions on how to build community-led OpenSearch Hackathons.
+  * **#hackathon-agent-skills** - Discussions for the Agent Skills Hackathon.
   * **#indexing** - 	Discussions around parsers, compression, merge strategies, flush/refresh settings, etc.
   * **#infra** - primary channel for infra. General discussions, questions, or infra requests can be posted here.
   * **#ingest** - Conversations, questions, and discussion related to ingesting data into OpenSearch.
-  * **#jobs** - The place to post job postings for all jobs related to the creation, maintenance, or use of OpenSearch. When posting please ensure you include a job location as we are a distributed community.
+  * **#jobs** - The place to post job postings for all jobs related to the creation, maintenance, or use of OpenSearch. When posting please ensure you include a job location as we are a distributed community. We also require a link to a publicly posted job; without it, your post may be removed in an attempt to cut down on spam.
   * **#k8s-operator** - Discussions about the Kubernetes Operator.
   * **#lucene** - Discussions related to the Apache Lucene project.
   * **#maintainers** - A channel for maintainers to discuss on efficiently maintaining repos. _Discussions that lead to results in unilateral change (intentional or inadvertently) being codified, take them to the Maintainers forum category for long-term traceability._
@@ -70,7 +75,6 @@ There are dedicated channels for the following (note that participants might be 
   * **#plugins** - Discussion of OpenSearch plugins and the future of extensibility.
   * **#prometheus-exporter** - Discussions for the Prometheus exporter plugin for OpenSearch & OpenSearch Mixin [https://github.com/opensearch-project/opensearch-prometheus-exporter](https://github.com/opensearch-project/opensearch-prometheus-exporter)
   * **#random** - A place for non-work-related flimflam, faffing, hodge-podge or jibber-jabber you'd prefer to keep out of more focused work-related channels.
-  * **#release-bot-oscar** - This channel features our latest release bot OSCAR in beta stage. You can @oscar-beta in the channel for interactions. Please check the canvas on top of the channel for usages.
   * **#release-engineering** - Discussion area on release engineering and transfer of ownership to the LF.
   * **#releases** - Discussions related to planning, scheduling, go/no-go, and release related topics.
   * **#search** - Search applications, relevance tuning, semantic search, Lucene, search features."
@@ -80,12 +84,13 @@ There are dedicated channels for the following (note that participants might be 
   * **#solutions-providers** - A place for solutions providers; work with, find, engage, trade ideas.
   * **#sql-ppl** - All the Query Languages OpenSearch supports, including query planning and federation.
   * **#user-groups** - [User Groups](https://github.com/opensearch-project/community/tree/main/user-groups) program discussion. Learn about new meetings in your area, propose to speak at an upcoming meeting, find out more details on how to take part in or co-organize a [User Group](https://opensearch.org/usergroups/) in your area.
+  * **#user-groups-japan** - こんにちは。このチャンネルは日本の OpenSearch ユーザーグループメンバーの連絡用チャンネルです！
   * **#vector-search** - Discussions and questions regarding vector-search capabilities and use cases.
 
 
 ### Tips
 
-  * Try to keep communications in the open - not only does this facilitate better sharing of information but back channeled discussions are not retained for search among other community members.
+  * Try to keep communications in the open - not only does this facilitate better sharing of information but back-channeled discussions are not retained for search among other community members.
   * Slack conversations are not searchable outside the workspace. For this reason we encourage using the [OpenSearch Forum](https://forum.opensearch.org) for technical support discussions or, at least, open a summary discussion on the forum so useful findings can be shared with the rest of the community.
   * Keep discussions organized - use threads to respond to comments inline instead of posting to the entire channel.
   * Expect asynchronous response time - do not assume immediate response time, or possibly any response at all. This is a community driven communication tool with participants in different time zones. The workspace should not be treated as a formal support or training tool.
