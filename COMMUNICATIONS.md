@@ -62,7 +62,7 @@ There are dedicated channels for the following (note that participants might be 
   * **#indexing** - 	Discussions around parsers, compression, merge strategies, flush/refresh settings, etc.
   * **#infra** - primary channel for infra. General discussions, questions, or infra requests can be posted here.
   * **#ingest** - Conversations, questions, and discussion related to ingesting data into OpenSearch.
-  * **#jobs** - The place to post job postings for all jobs related to the creation, maintenance, or use of OpenSearch. When posting please ensure you include a job location as we are a distributed community. We also require a link to a publicly posted job, without, your post may be removed in an attempt to cut down on spam.
+  * **#jobs** - The place to post job postings for all jobs related to the creation, maintenance, or use of OpenSearch. When posting please ensure you include a job location as we are a distributed community. We also require a link to a publicly posted job; without it, your post may be removed in an attempt to cut down on spam.
   * **#k8s-operator** - Discussions about the Kubernetes Operator.
   * **#lucene** - Discussions related to the Apache Lucene project.
   * **#maintainers** - A channel for maintainers to discuss on efficiently maintaining repos. _Discussions that lead to results in unilateral change (intentional or inadvertently) being codified, take them to the Maintainers forum category for long-term traceability._
@@ -90,7 +90,7 @@ There are dedicated channels for the following (note that participants might be 
 
 ### Tips
 
-  * Try to keep communications in the open - not only does this facilitate better sharing of information but back channeled discussions are not retained for search among other community members.
+  * Try to keep communications in the open - not only does this facilitate better sharing of information but back-channeled discussions are not retained for search among other community members.
   * Slack conversations are not searchable outside the workspace. For this reason we encourage using the [OpenSearch Forum](https://forum.opensearch.org) for technical support discussions or, at least, open a summary discussion on the forum so useful findings can be shared with the rest of the community.
   * Keep discussions organized - use threads to respond to comments inline instead of posting to the entire channel.
   * Expect asynchronous response time - do not assume immediate response time, or possibly any response at all. This is a community driven communication tool with participants in different time zones. The workspace should not be treated as a formal support or training tool.
