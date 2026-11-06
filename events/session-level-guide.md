@@ -2,9 +2,10 @@
 
 ### OpenSearch Events: Session Level Guide
 
-OpenSearch presentations are categorized into 100, 200, and 300 levels to help attendees choose sessions that match their expertise. Each level indicates the depth of technical knowledge required to effectively engage with the content.
+OpenSearch presentations are categorized into beginner, intermediate, or advanced levels to help attendees choose sessions that match their expertise. Each level indicates the depth of technical knowledge required to effectively engage with the content.
 
-### 100-Level: Core Concepts, Fundamentals & Community Insights
+### Beginner: Core Concepts, Fundamentals, & Community Insights
+#### 100-Level
 
 Target audience: Newcomers to the OpenSearch community, including developers, advocates, students, and operations professionals starting their journey.
 
@@ -17,7 +18,8 @@ Example sessions:
 * "Introduction to OpenSearch Dashboards"  
 * “Growing a collaborative open source community” 
 
-### 200-Level: Implementation & Development
+### Intermediate: Implementation, & Development
+#### 200-Level
 
 Target audience: Practitioners with hands-on OpenSearch experience who want to expand their capabilities and help grow the community.
 
@@ -30,7 +32,8 @@ Example sessions:
 * "Advanced Aggregation Patterns"  
 * “Why content, and not just the docs, need more from the open source community”
 
-### 300-Level: Mastery
+### Advanced: Comprehensive 
+#### 300-Level
 
 Target audience: Search engine experts, core contributors, and system architects working on complex OpenSearch implementations.
 
