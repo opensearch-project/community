@@ -386,6 +386,15 @@ The [OpenSearch User Group program](https://opensearch.org/user-groups/) is supp
 | Kris Freedain | [krisfreedain](https://github.com/krisfreedain) | [Kris Freedain](https://www.linkedin.com/in/krisfreedain/) |
 | Indrajith Ekanayake | [indrajithek](https://github.com/indrajithek) | [indrajithek](https://www.linkedin.com/in/indrajithek/) |
 
+## [OpenSearch Project Amravati](https://www.meetup.com/opensearch-project-amravati/)
+
+| Organizer Name | Company | GitHub ID | LinkedIn |
+| --- | --- | --- | --- |
+| Amit Kumar Yadav | MetaMorphosys | [amityadav-72](https://github.com/amityadav-72) | [Amit Kumar Yadav](https://www.linkedin.com/in/amityadav72/) |
+| Karamveer Singh Oberoi | GYANVIX | [karamveer2648](https://github.com/karamveer2648) | [Karamveer Singh Oberoi](https://www.linkedin.com/in/karamveersinghoberoi2648/) |
+| Kris Freedain | Amazon | [krisfreedain](https://github.com/krisfreedain) | [Kris Freedain](https://www.linkedin.com/in/krisfreedain/) |
+| Rutuja Ghongade | Virtous |  | [Rutuja Ghongade](https://www.linkedin.com/in/rutuja-ghongade20/) |
+
 
 ## New Groups 
 
